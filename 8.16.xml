@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Formación Profesional - Módulos Formativos</title>
+  <link href="https://www.ejemplo.com/formacion-profesional/" rel="self" />
+  <link href="https://www.ejemplo.com/formacion-profesional/" />
+  <id>https://www.ejemplo.com/formacion-profesional/</id>
+  <updated>2023-05-11T00:00:00Z</updated>
+  <author>
+    <name>Alberto Gonzalez </name>
+    <email>Alberto292es@email.com</email>
+  </author>
+  <entry>
+    <title>Diseño en app web </title>
+    <link href="https://www.ejemplo.com/formacion-profesional/Diseñoenappweb/" />
+    <id>https://www.ejemplo.com/formacion-profesional/Diseñoenappweb/</id>
+    <updated>2023-05-10T00:00:00Z</updated>
+    <summary>Desarro en app web !!</summary>
+  </entry>
+  <entry>
+    <title>carpintero </title>
+    <link href="https://www.ejemplo.com/formacion-profesional/carpintero/" />
+    <id>https://www.ejemplo.com/formacion-profesional/carpintero/</id>
+    <updated>2023-05-09T00:00:00Z</updated>
+    <summary>pues cortar madera </summary>
+  </entry>
+ 
+</feed>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Desarro en app web</title>
+    <link>https://www.ejemplo.com/desarro app web/</link>
+    <description>desarroro en app web</description>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 10 May 2023 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Sistemas informaticos</title>
+      <link>https://www.ejemplo.com/desarro app web/Sistemasinformaticos/</link>
+      <description>todo lo del hardware</description>
+      <pubDate>Sun, 09 May 2023 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Programacion </title>
+      <link>https://www.ejemplo.com/desarro app web/Programacion/</link>
+      <description>pues diseño de app </description>
+      <pubDate>Sat, 08 May 2023 00:00:00 GMT</pubDate>
+    </item>
+   
+  </channel>
+</rss>

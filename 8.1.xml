@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8?>
+<rss version="2.0">
+<channel>
+<title>Pizzas La serrana</title>
+<link>https://www.pizzerialaserrana.it </link>
+<description>Web de la pizzeria la serrana</description>
+ <item>
+  <title>Pizza con piña</title>
+  <link>https://www.pizzerialaserrana.it/rrs/pizzaconpiña</link>
+  <description>Pizza con piña y jamon </description>
+  </item>
+ <item>
+  <title>Pizza boloñesa</title>
+  <link>https://www.pizzerialaserrana.it/rrs/pizzaboloñesa</link>
+  <description>Pizza con salsa boloñesa y chorizo  </description>
+  </item>
+ <item>
+  <title>Pizza carbonara</title>
+  <link>https://www.pizzerialaserrana.it/rrs/pizzacarbonara</link>
+  <description>Pizza con salsa carbonara, huevo y jamon </description>
+  </item>
+
+
+</channel>
+</rss>
